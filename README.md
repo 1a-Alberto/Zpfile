@@ -9,7 +9,7 @@
     3. requests
     
 # Usage:
-    python3 zcrack.py
+    python3 zfile.py
    
 # Features:
      *: You Can Crack ZIP Password Protected Files Using Below Method:
