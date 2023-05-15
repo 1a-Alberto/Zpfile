@@ -1,6 +1,6 @@
 # Installation:
     1. git clone https://github.com/HAME-RU/Zpfile.git
-    2. cd zfile
+    2. cd Zfile
     3. python3 -m pip install -r requirements.txt
     
 # Requirements:
